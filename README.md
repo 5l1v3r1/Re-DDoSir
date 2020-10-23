@@ -44,7 +44,8 @@ $ sudo python3 Re-DDoSir.py
 
 ```
 <br>
-## CAPTURA
+<p align="center"><b> CAPTURA: </b></p>
+<br>
 
 <img src="https://i.imgur.com/LcthWmM.png">
 
