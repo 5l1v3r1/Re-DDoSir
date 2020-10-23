@@ -1,7 +1,11 @@
 # Re-DDoSir
+<p>Una herramienta que hace Denegacion de Servicios, la Potencia esta basada en el tipo de API escogida </p>
 <br>
 
 * Herramienta de ataques DDoS por API
+* Actualmente es funcional
+* Buscando un API comun 
+* De pago
 
 ## ESTADO:
 
