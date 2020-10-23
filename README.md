@@ -2,7 +2,7 @@
 <H3>Una herramienta que hace Denegacion de Servicios, la Potencia esta basada en el tipo de API escogida </H3>
 <br>
 <br>
-<img src="https://i.imgur.com/pnhtoHB.jpg">
+<img src="https://i.imgur.com/6IuapCq.png">
 <br></br>
 
 # Etiquetas:
