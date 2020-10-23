@@ -44,11 +44,11 @@ $ sudo python3 Re-DDoSir.py
 
 ```
 <br>
-<p align="center"><b> CAPTURA: </b></p>
+<p align="center"><b><h4> CAPTURA: </h4></b></p>
 <br>
-
+<div aling="center">
 <img src="https://i.imgur.com/LcthWmM.png">
-
+</div>
 
 
 
