@@ -1,6 +1,9 @@
 # Re-DDoSir
 <p>Una herramienta que hace Denegacion de Servicios, la Potencia esta basada en el tipo de API escogida </p>
 <br>
+<br>
+<img src="https://i.imgur.com/pnhtoHB.jpg">
+<br>
 
 # Caracteristicas:
 
