@@ -8,6 +8,8 @@
 # Etiquetas:
 
 <img src="https://img.shields.io/badge/Python-3.7-yellow?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"> <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge&logo="> <img src="https://i.imgur.com/oS4P9zJ.png"> <img src="https://i.imgur.com/hIFyaeC.png">
+<br>
+<br>
 
 # Estado:
 
