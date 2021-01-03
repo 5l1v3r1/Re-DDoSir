@@ -50,7 +50,7 @@ $ sudo chmod 777 Re-DDoSir.py
 # También puede ejecutarla desde el atajo
 $ sudo su
 
-# Inicie KitHack
+# Iniciar DDOS
 $ sudo python3 Re-DDoSir.py
 
 ```
